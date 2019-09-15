@@ -1,4 +1,5 @@
-# 四轴飞行器控制器（强化学习）- Quadcopter Reinforcement Learning
+# 四轴飞行器控制器（强化学习)
+# Quadcopter Reinforcement Learning
 
 This is the final project for the course of Deep Learning at Udacity
 
