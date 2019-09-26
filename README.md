@@ -1,5 +1,5 @@
-# 深度学习 (纳米学位）- 项目5  - 四轴飞行器控制器（强化学习)
-# DeepLearning ND - Project5 - Quadcopter Controller (RL)
+# 深度学习 (纳米学位）-项目5-四轴飞行器控制器(强化学习）
+# DeepLearning ND -Project5-Quadcopter Controller (RL)
 
 [//]: # (Image References)
 [image1.1]: ./example1.png
