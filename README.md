@@ -12,9 +12,13 @@ The project implemented **Reinforcement Learning with Actor/Critic models** to c
 
 Project files including:  
 The jupyter notebook file  [Quadcopter_RL-zh.ipynb](Quadcopter_RL-zh.ipynb)  
- - [DDPG_agent.py](./agents/DDPG_agent.py)  - Here the Agent is implemented (i.e. the Quadcopter)
- - [DDPG_model.py](./agents/DDPG_model.py)  - Here the Actor/Critic Models are implemented
- - [helper.py](./agents/helper.py) - helper functions
+ - [agents/DDPG_agent.py](./agents/DDPG_agent.py)  - Here the Agent is implemented (i.e. the Quadcopter)
+ - [agents/DDPG_model.py](./agents/DDPG_model.py)  - Here the Actor/Critic Models are implemented
+ - [agents/helper.py](./agents/helper.py) - helper functions
+ - [task.py](./agents/helper.py) - function to define tasks
+ - [physics_sim.py](physics_sim.py) - funciton to simulate physics 
+
+
 
 Here is my review for the project [Project Review](./Project-Writeup.md) (also in notebook file)  
 Here is the [Project requirements](./Project-README.md)
